@@ -25,7 +25,7 @@ This repo provides a working binary (`dungeonescape`), assets, and demo material
 ### 🎥 Gameplay Demo
 
 Watch a short recording of the game in action:  
-[▶️ Watch Gameplay Demo](docs/screenshots/DE_demo.mp4)
+[▶️ Watch Gameplay Demo]([docs/screenshots/DE_demo.mp4](https://youtu.be/Wcc1idMOPzo))
 
 ## 🚀 How to Run
 
