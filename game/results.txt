@@ -1,0 +1,17 @@
+The Sorcerer has prevailed! You and your party lie dead in the dungeons, just another set of corpses strewn about the griddy dungeon floor.
+The following members of your party survived: 
+Champion: a
+Surviving party member: asd
+Surviving party member: fasdf
+Surviving party member: fasdf
+Surviving party member: dafsdf
+Number of rooms cleared: 0
+Number of Gold Pieces: 100
+Silver rings: 0
+Ruby necklaces: 0
+Emrald bracelets: 0
+Diamonds: 0
+Gem-encrested goblets: 0
+Number of spaces explored: 0
+Number of monsters defeated: 0
+Number of turns this game: 1
