@@ -1,0 +1,16 @@
+Congratulations! You have defeated the Sorcerer and rid the land of their evil magic
+The following members of your party survived: 
+Champion: Tom
+Surviving party member: deb
+Surviving party member: bill
+Surviving party member: hayes
+Number of rooms cleared: 5
+Number of Gold Pieces: 60
+Silver rings: 0
+Ruby necklaces: 0
+Emrald bracelets: 0
+Diamonds: 0
+Gem-encrested goblets: 0
+Number of spaces explored: 9
+Number of monsters defeated: 5
+Number of turns this game: 43
