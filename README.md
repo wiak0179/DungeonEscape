@@ -12,7 +12,7 @@ This repo provides a working binary (`dungeonescape`), assets, and demo material
 ### Screenshots
 
 **Start Screen**  
-![Start Screen](docs/screenshots/Start_screen)
+![Start Screen](docs/screenshots/Start_screen.png)
 
 **Battle Example**  
 ![Battle](docs/screenshots/battle.png)
