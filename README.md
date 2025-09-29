@@ -34,4 +34,5 @@ Clone the repo and use the provided launcher:
 ```bash
 git clone https://github.com/wiak0179/DE_GAME.git
 cd DE_GAME
+./run.sh   
 
