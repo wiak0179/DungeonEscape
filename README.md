@@ -15,10 +15,10 @@ This repo provides a working binary (`dungeonescape`), assets, and demo material
 ![Start Screen](docs/screenshots/Start_screen.png)
 
 **Battle Example**  
-![Battle](docs/screenshots/battle.png)
+![Battle](docs/screenshots/Battle.png)
 
 **Loot / Merchant**  
-![Loot](DE_GAME/docs/screenshots/Screenshot 2025-09-29 at 1.35.38 PM.png)
+![Merchant](DE_GAME/docs/screenshots/Merchant.png)
 
 ---
 
